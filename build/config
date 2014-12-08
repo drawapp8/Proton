@@ -76,6 +76,7 @@ zone/RectZone.js
 zone/ImageZone.js
 debug/log.js
 debug/Debug.js
+cantk/ui-particles.js
 -----
 
 foot
